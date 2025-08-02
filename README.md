@@ -79,12 +79,7 @@ sarcasm_detector.py       # Main Python script
  README.md                 # Project documentation
 
 
-###  **Future Improvements**
 
-✅ Try **Naive Bayes** or **SVM** models for comparison
-✅ Use **transformers (BERT)** for higher accuracy
-✅ Handle **code-mixed (Hinglish) sarcasm**
-✅ Build a **web interface (Streamlit or Flask)** for real-time sarcasm detection
 
 
 
